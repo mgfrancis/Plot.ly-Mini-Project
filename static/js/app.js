@@ -152,29 +152,4 @@ function optionChanged(newSample) {
   buildCharts(newSample);
   buildMetadata(newSample);
 }
-  /*
-  
-*/
-
-
-
-
-
-
-
-
-/*
-   Hints: Create additional functions to build the charts,
-          build the gauge chart, set up the metadata,
-          and handle the event listeners
-   Recommended function names:
-    optionChanged() 
-    buildChart()
-    buildGauge()
-    buildMetadata()
-*/
-
-// Initialize the dashboard
-//}
-
-//init();
+ 
